@@ -6,7 +6,7 @@ Submitted by: **Prabhash G C**
 
 Time spent: **5** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/harmless-azure-reading?path=README.md%3A1%3A0)
+Link to project: (https://shaded-simplistic-lawyer.glitch.me/)
 
 ## Required Functionality
 
@@ -51,7 +51,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 I used the website www.w3schools.com to brush up some of css skills. I relied on mdn docs as well to understand the concepts behind the functions used in the game. I also read from javascript.info where I could browse onto different topics. I learned about callback function and async functions. 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-It was smooth till creating html page, and even css page. I had a bit difficulty in understanding how setTimeOut works, and how could I implement that to run the game. I was initially thinking to run two loops inside the other, but by using setTimeOut, the game logic was easily developed. Moreover, I had one question regarding the clicking of right and left button. When I clicked the right button, there was an indefinite period of play of the button. It would go out after clicking the right button. I also changed the number of image displayed on each button when computer plays and when the user clicks. It was enjoyful to watch.
+It was smooth till creating html page, and even css page. I had a bit difficulty in understanding how setTimeOut works, and how could I implement that to run the game. I was initially thinking to run two loops inside the other, but by using setTimeOut, the game logic was easily developed. Moreover, I had one question regarding the clicking of right and left button. When I clicked the right button, there was an indefinite period of play of the button. It would go out after clicking the right button. I also changed the number of image displayed on each button when computer plays and when the user clicks. It was enjoyful to watch. The background also changed randomly when the user clicked the button. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 I wanted to learn how more than two people collaborate on a single project. Moreover, I also want to learn about the blockchain technology on web. I want to know how to handle the users input and store them in server. I would want to learn how to create a responsive website, so that the website works on every devices. 
