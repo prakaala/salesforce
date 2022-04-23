@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-* [x] (https://recordit.co/VfG7KFzl92.gif)
+* [x] (https://im.ezgif.com/tmp/ezgif-1-109bd6cab2.gif)
 * [x] (https://recordit.co/Mz5v69Pm7n.gif)
 * [x] (http://g.recordit.co/L04XLQz0q8.gif)
 ![](gif4-link-here)
@@ -63,7 +63,7 @@ If I had few more hours to work on this project, I would definitely add the 3 st
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://www.loom.com/share/369d3cac7893472e9cbb6f14275c0f85)
+[My 5-minute Interview Recording](https://www.loom.com/share/d9506cc391514fefb0cc8afbdfec95d9)
 
 
 
