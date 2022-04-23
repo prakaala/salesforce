@@ -1,0 +1,140 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #11134b;
+  color: #ccf5f5;
+  display: flex;
+  padding: 30px;
+  justify-content: center;
+}
+
+button {
+  font-size: 100%;
+  background: #46e84e;
+  color: rgb(0, 0, 0);
+  font-weight: 700;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 12px;
+  padding: 15px 40px;
+  margin-bottom: 15px;
+}
+
+button:hover {
+  background-color: rgb(201, 222, 231);
+}
+
+/* Subheading */
+h2 {
+  color: #ccf5f5;
+  text-align: center;
+  padding: 30px;
+}
+
+#gameArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+  background-color: lightgreen;
+}
+#button2 {
+  background-color: lightblue;
+}
+#button3 {
+  background-color: pink;
+}
+#button4 {
+  background-color: lightyellow;
+}
+
+#button5 {
+  background-color: lightsalmon;
+}
+
+#button1:active {
+  background-image: url(https://bit.ly/3k0Wa99);
+  background-repeat: repeat;
+  background-position: center;
+  background-color: green;
+  background-size: 50px 50px;
+}
+
+#button1.lit {
+  background-image: url(https://bit.ly/3k0Wa99);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: green;
+  background-size: 50px 50px;
+}
+
+#button2:active {
+  background-image: url(https://bit.ly/3k0Wa99);
+  background-repeat: repeat;
+  background-position: center;
+  background-color: blue;
+  background-size: 50px 50px;
+}
+
+#button2.lit {
+  background-image: url(https://bit.ly/3k0Wa99);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: blue;
+  background-size: 50px 50px;
+}
+#button3:active {
+  background-image: url(https://bit.ly/3Ox9K2n);
+  background-repeat: repeat;
+  background-position: center;
+  background-color: red;
+  background-size: 50px 50px;
+}
+
+#button3.lit {
+  background-image: url(https://bit.ly/3Ox9K2n);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: red;
+  background-size: 50px 50px;
+}
+#button4:active {
+  background-image: url(https://bit.ly/3k4bzpf);
+  background-repeat: repeat;
+  background-position: center;
+  background-color: yellow;
+  background-size: 50px 50px;
+}
+
+#button4.lit {
+  background-image: url(https://bit.ly/3k4bzpf);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: yellow;
+  background-size: 50px 50px;
+}
+
+#button5:active {
+  background-image: url(https://bit.ly/388cEtz);
+  background-repeat: repeat;
+  background-position: center;
+  background-color: salmon;
+  background-size: 50px 50px;
+}
+
+#button5.lit {
+  background-image: url(https://bit.ly/388cEtz);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: salmon;
+  background-size: 50px 50px;
+}
